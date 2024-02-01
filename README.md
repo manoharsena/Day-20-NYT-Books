@@ -2,7 +2,7 @@
 
 This project is to create and display the New York Times Books details by fetching the information from the API (https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=J63QBTyu7Kzs9GKRlhoWBrGV68o4eNgO).
 
-To view the Covid Details app in browser [Click Here](https://tn-covid-19.netlify.app/)
+To view the New York Times book app in browser [Click Here](https://nyt-books-3411.netlify.app/)
 
 <br />
 
